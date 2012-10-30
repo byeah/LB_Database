@@ -1,0 +1,4 @@
+[{ "_id" : 1000010, "addr" : "Gillman Heights Condominium\n1A Gillman Heights, Singapore 100001", "fetdt" : { "$date" : 1345018964614 }, "latlng" : [ 1.281933, 103.80321 ], "name" : "Gillman Heights Condominium", "pcode" : 100001, "url" : "http://gothere.sg/maps#q:100001" },
+{ "_id" : 1000440, "addr" : "44 Telok Blangah Drive\nSingapore 100044", "fetdt" : { "$date" : 1345018961499 }, "latlng" : [ 1.271687, 103.810585 ], "name" : "44 Telok Blangah Drive", "pcode" : 100044, "url" : "http://gothere.sg/maps#q:100044" },
+{ "_id" : 1000450, "addr" : "45 Telok Blangah Drive\nSingapore 100045", "fetdt" : { "$date" : 1345018961534 }, "latlng" : [ 1.272116, 103.80951 ], "name" : "45 Telok Blangah Drive", "pcode" : 100045, "url" : "http://gothere.sg/maps#q:100045" }
+]
